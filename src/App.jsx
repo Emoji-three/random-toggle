@@ -50,7 +50,7 @@ darkTheme = createTheme(darkTheme, {
           width: 22,
           height: 22,
           // OFFの時のつまみの色もテーマのprimaryカラーを参照
-          color: darkTheme.palette.primary.main,
+          color: '#205020',
         },
         track: {
           borderRadius: 26 / 2,
