@@ -63,7 +63,7 @@ darkTheme = createTheme(darkTheme, {
 });
 
 const TOGGLE_SIZE = 50; // 各トグルのサイズ (px) - 余白込み
-const UPDATE_INTERVAL = 1000; // 更新間隔 (ms)
+const UPDATE_INTERVAL = 500; // 更新間隔 (ms)
 const RANDOM_CHANCE = 0.1; // 状態が切り替わる確率
 
 /**
